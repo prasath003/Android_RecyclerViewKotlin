@@ -27,7 +27,8 @@ class FragmentOne : Fragment() {
         users.add(User("Siva"));
         users.add(User("Junior"));
         users.add(User("Muthu"));
-        users.add(User("Valarmathi"));*/
+        users.add(User("Muthu2"));*/
+
         val users = ArrayList<User>()
         val user = User("prasath");
         users.add(user);
